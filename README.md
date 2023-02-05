@@ -1,3 +1,3 @@
 # Airline-Passenger-Satisfaction
 
-MGSC 695 Enterprise Analytics - Winter 2023 - Group 5
+INSY 695 Enterprise Analytics - Winter 2023 - Group 5
