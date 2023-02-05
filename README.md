@@ -1,3 +1,3 @@
 # Airline-Passenger-Satisfaction
 
-MMA5-Group 5
+MGSC 695 Enterprise Analytics - Winter 2023 - Group 5
