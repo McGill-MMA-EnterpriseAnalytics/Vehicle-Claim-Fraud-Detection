@@ -6,5 +6,3 @@ Seven supervised learning models are used for Vehicle Insurance Claim Fraud Dete
 5. ANN (Artificial Neural Network)
 6. SVM (Support Vector Machine)
 7. LDA (Linear Discriminant Analysis)
-
-Causal Inference is also used for Vehicle Insurance Claim Fraud Detection.
