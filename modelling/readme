@@ -1,1 +1,10 @@
+Several supervised learning models are used for Vehicle Insurance Claim Fraud Detection:
+1. Logistic Regression
+2. Random Forest
+3. XGBoost
 
+
+
+* Pending:
+LightGBM
+CatBoost
