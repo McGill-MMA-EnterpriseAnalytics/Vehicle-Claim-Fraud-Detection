@@ -1,11 +1,10 @@
-Several supervised learning models are used for Vehicle Insurance Claim Fraud Detection:
+Seven supervised learning models are used for Vehicle Insurance Claim Fraud Detection:
 1. Logistic Regression
-2. KNN
+2. KNN (K-Nearest Neighbors)
 3. Random Forest
 4. XGBoost
+5. ANN (Artificial Neural Network)
+6. SVM (Support Vector Machine)
+7. LDA (Linear Discriminant Analysis)
 
-
-
-* Pending:
-LightGBM
-CatBoost
+Causal Inference is also used for Vehicle Insurance Claim Fraud Detection.
