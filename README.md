@@ -19,7 +19,7 @@ Clean Data:
 [dataset after preprocessing & removed the imbalanced issue](https://github.com/McGill-MMA-EnterpriseAnalytics/vehicle-claim-fraud-detection/blob/main/data/Fraud_sampledtrain.csv)
 
 ## Framing the problem
-- Objective: The objective is to develop a machine learning model that can accurately detect cases of fraudulent vehicle claims. The goal is to reduce the amount of money that the insurance company loses to fraudulent claims, while also reducing the time and resources spent investigating false positives.
+- Objective: The objective is to develop a machine learning model that can accurately detect cases of fraudulent vehicle claims. The goal is to reduce the amount of money that the insurance company loses to fraudulent claims, while possibly reducing the time and resources spent investigating false positives.
 - Use case: The solution will be used by the insurance company to automatically flag potential fraudulent claims for further investigation. The model will be integrated into the company's claims processing system and will automatically analyze each claim as it is submitted.
 - Current solutions: The insurance company may currently rely on manual inspection of claims or rules-based systems to flag potential fraud. These approaches may be time-consuming and error-prone, leading to false positives or false negatives.
 - Problem framing: This is a supervised learning problem, as we have labeled examples of both fraudulent and legitimate claims that can be used to train a model. The solution should be designed to work offline, as claims can be processed after they are submitted.
